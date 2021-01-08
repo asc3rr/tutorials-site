@@ -13,7 +13,7 @@ function get_articles(){
                 var title = article_data.title;
 
                 var article_template = `
-                    <article>
+                    <article class="tile">
                         <a href="post.php?id=`+id+`"><span class="title">` + title + `</span></a>
                     </article>
                 `;
