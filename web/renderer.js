@@ -7,12 +7,10 @@ function get_articles(){
 
             json_obj.forEach(article_data => {
                 var title = article_data.title;
-                var date = article_data.date;
 
                 var article_template = `
                     <article>
                         <span class="title">` + title + `</span>
-                        <span class="date">` + date + `</span>
                     </article>
                 `;
 
