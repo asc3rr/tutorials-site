@@ -1,0 +1,18 @@
+#main{
+    margin-top: 5%;
+
+    width: 70%;
+
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#title{
+    font-size: 300%;
+
+    text-align: center;
+}
+
+#content{
+    font-size: 150%;
+}

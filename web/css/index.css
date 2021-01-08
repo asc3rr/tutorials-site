@@ -1,0 +1,19 @@
+#articles{
+    margin-top: 5%;
+
+    text-align: center;
+
+    width: 80%;
+
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tile{
+    font-size: 200%;
+
+    padding: 10px;
+    height: 50px;
+
+    margin-bottom: 1%;
+}
