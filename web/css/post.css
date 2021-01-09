@@ -16,3 +16,13 @@
 #content{
     font-size: 150%;
 }
+
+code{
+    margin-top: 10px;
+    display: block;
+
+    padding: 10px;
+
+    background-color: #444444;
+    color: white;
+}
